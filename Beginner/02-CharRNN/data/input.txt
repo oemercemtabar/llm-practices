@@ -1,0 +1,2 @@
+This is a tiny placeholder corpus.
+Replace with a bigger public-domain text (e.g., Tiny Shakespeare).

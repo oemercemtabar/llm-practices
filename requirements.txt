@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+tqdm
+scikit-learn
+gensim
+jupyter
+# Install torch per your platform: https://pytorch.org/get-started/locally/
